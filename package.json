@@ -18,5 +18,15 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^13.1.2"
+  },
+  "dependencies": {
+    "browserify-fs": "^1.0.0",
+    "drag-drop": "^7.0.1",
+    "fs": "0.0.1-security",
+    "install": "^0.13.0",
+    "npm": "^7.17.0",
+    "webtorrent": "^1.0.0",
+    "webtorrent-cli": "^3.3.0",
+    "webtorrent-hybrid": "^4.1.0"
   }
 }
